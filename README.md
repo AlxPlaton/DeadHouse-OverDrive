@@ -1,5 +1,5 @@
-Version 1.0.1 
-Developed by Alexander Platon
+<b>Version 1.0.1 
+Developed by Alexander Platon</b>
 
 Welcome to the DeadHouse Overdrive project. This is a custom-built distortion/overdrive pedal developed using C++ and the JUCE framework.
 WARNING! This is a Beta Build, unfinished and mostly functional. I aim at full functionallity asap.
@@ -20,17 +20,21 @@ Responsive UI: Custom-designed knobs and interface.
 
 Optimized for Mono/Stereo: Actively working on the signal path logic to ensure perfect phase alignment.
 
-For Developers
+
+<b>** For Developers **</b>
+
 If you want to compile this yourself:
 
-Clone the repository.
-(All files were complied within Visual Studio 18, so I reccomend cloning the repo there)
+1) Clone the repository.
+   (All files were complied within Visual Studio 18, so I reccomend cloning the repo there)
 
-Open DeadHouse Overdrive.jucer in Projucer.
+2) Open DeadHouse Overdrive.jucer in Projucer.
 
-Ensure you have the JUCE modules installed.
+3) Ensure you have the JUCE modules installed.
 
-To-Do List
+
+<b>** To-Do List **</b>
+
 Optimize code and memory usage.
 
 Fix VST3 buffer synchronization issues.
